@@ -1,3 +1,9 @@
+Preview:
+
+![zapis-ekrana-2022-11-16-v-185535_TPBEX1KF (1)](https://user-images.githubusercontent.com/80850812/202245696-35d90c78-52ed-49db-9495-d76fcd4407c6.gif)
+
+---
+
 # Hydrogen Demo Store
 
 Hydrogen is a React framework and SDK that you can use to build fast and dynamic Shopify custom storefronts.
