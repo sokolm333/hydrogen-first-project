@@ -31,7 +31,7 @@ function AllProductsGrid() {
     variables: {
       country: countryCode,
       language: languageCode,
-      pageBy: 10000,
+      pageBy: 250,
     },
     preload: true,
   });
@@ -67,7 +67,7 @@ export async function api(request, { params, queryShop }) {
     variables: {
       handle,
       cursor,
-      pageBy: 10000,
+      pageBy: 250,
       country,
     },
   });
